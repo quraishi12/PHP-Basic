@@ -20,11 +20,10 @@ PHP (Hypertext Preprocessor) is a widely-used, open-source scripting language pr
 
 Here's a simple example of PHP code:
 
-```php
 <?php
 echo "Hello, World!";
 ?>
-How PHP Works
+##How PHP Works
 Client Request: A user requests a PHP page through their web browser.
 Server Processing: The web server processes the PHP code, often interacting with a database.
 Response: The server sends the generated HTML back to the user's browser for display.
